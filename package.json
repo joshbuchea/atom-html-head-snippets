@@ -1,0 +1,25 @@
+{
+  "name": "html-head-snippets",
+  "version": "0.0.0",
+  "description": "Atom snippets for HTML head elements",
+  "repository": "https://github.com/joshbuchea/atom-html-head-snippets",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "scripts": {
+    "test": "gulp"
+  },
+  "keywords": [
+    "html",
+    "html5",
+    "head",
+    "meta",
+    "snippets"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-lintspaces": "^0.4.1"
+  }
+}
