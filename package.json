@@ -1,6 +1,6 @@
 {
   "name": "html-head-snippets",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Atom snippets for HTML head elements",
   "repository": "https://github.com/joshbuchea/atom-html-head-snippets",
   "license": "MIT",
