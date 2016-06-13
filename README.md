@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/joshbuchea/atom-html-head-snippets.svg?branch=master)](https://travis-ci.org/joshbuchea/atom-html-head-snippets)
 
-An [Atom](https://atom.io/) snippet library for HTML head elements, from the project [HEAD](https://github.com/joshbuchea/HEAD).
+HTML `<head>` snippets for [Atom](https://atom.io/); from the project [HEAD](https://github.com/joshbuchea/HEAD).
 
 ## Installation
 
